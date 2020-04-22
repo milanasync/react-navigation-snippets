@@ -1,0 +1,30 @@
+{
+  "name": "react-navigation-snippets",
+  "displayName": "react-navigation-snippets",
+  "description": "Create react navigation code by using shortest possible word.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  },
+  "author": {
+    "name": "milanasync",
+    "email": "milanasyncdev@gmail.com",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milanasync/react-navigation-snippets"
+  },
+  "publisher": "milanasyncdev"
+}
